@@ -1,9 +1,9 @@
 ---
 title: "UCLDW Analysis for UCSF"
 output:
+  pdf_document: default
   html_document:
     df_print: paged
-  pdf_document: default
 ---
 
 A quick look at attendance stats from UC Love Data Week 2024:
