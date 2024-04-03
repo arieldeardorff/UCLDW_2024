@@ -6,7 +6,7 @@ output:
   pdf_document: default
 ---
 
-A quick look at attendance stats from UC Love Data Week 2024
+A quick look at attendance stats from UC Love Data Week 2024:
 
 ```{r}
 ## First some setup
